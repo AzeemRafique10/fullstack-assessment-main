@@ -16,7 +16,8 @@
       "industries": [
         {
           "id": 100147,
-          "name": "enterprise software"
+          "name": "Muzli",
+          "logo": "./assets/Muzli.svg"
         }
       ],
       "name": "OpenAI",
@@ -62,7 +63,8 @@
       "industries": [
         {
           "id": 1254,
-          "name": "health"
+          "name": "Layers.io",
+          "logo": "./assets/Layers.svg"
         },
         {
           "id": 100147,
@@ -119,33 +121,7 @@
       "tagline": "AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems",
       "total_jobs_available": 96
     },
-    {
-      "uuid": "c11cd48e-6d22-4150-8c05-4b394e66d42a",
-      "images": {
-        "32x32": "https://storage.googleapis.com/dealroom-images-development/34/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNS8xOS8xMTQ0M2U3ZWI3NTUwMTM5YmExYzlkZDQyYjVhNzRkMQ==.png",
-        "74x74": "https://storage.googleapis.com/dealroom-images-development/81/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNS8xOS8xMTQ0M2U3ZWI3NTUwMTM5YmExYzlkZDQyYjVhNzRkMQ==.png",
-        "100x100": "https://storage.googleapis.com/dealroom-images-development/f3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA1LzE5LzExNDQzZTdlYjc1NTAxMzliYTFjOWRkNDJiNWE3NGQx.png"
-      },
-      "income_streams": [
-        {
-          "id": 3,
-          "name": "subscription"
-        }
-      ],
-      "industries": [
-        {
-          "id": 100039,
-          "name": "hosting"
-        },
-        {
-          "id": 100147,
-          "name": "enterprise software"
-        }
-      ],
-      "name": "Lambda",
-      "tagline": "The AI Developer Cloud: Cloud GPUs available on-demand and through reservations for AI training and inference",
-      "total_jobs_available": 25
-    },
+    
     {
       "uuid": "50dfebf6-cdce-4a47-ae73-9c996fdc4f3b",
       "images": {
@@ -185,11 +161,13 @@
       "industries": [
         {
           "id": 1262,
-          "name": "security"
+          "name": "Hourglass.app",
+          "logo": "./assets/Hourglass.svg"
         },
         {
           "id": 100092,
-          "name": "robotics"
+          "name": "Quotient",
+          "logo": "./assets/Quotient.svg"
         }
       ],
       "name": "Anduril",
@@ -289,7 +267,8 @@
       "industries": [
         {
           "id": 100012,
-          "name": "media"
+          "name": "Command+R",
+          "logo": "./assets/Command.svg"
         },
         {
           "id": 100147,
@@ -408,33 +387,7 @@
       "tagline": "Building machines that understand the world and making them safely accessible to all",
       "total_jobs_available": 0
     },
-    {
-      "uuid": "52f99c8b-ba1f-4627-8630-ae1f027eca81",
-      "images": {
-        "32x32": "https://storage.googleapis.com/dealroom-images-development/a3/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8xOC84MGI5NWM2ODhkODUwNzRiY2Q1ZDJhYTExZGNhZDlmZA==.png",
-        "74x74": "https://storage.googleapis.com/dealroom-images-development/3a/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8xOC84MGI5NWM2ODhkODUwNzRiY2Q1ZDJhYTExZGNhZDlmZA==.png",
-        "100x100": "https://storage.googleapis.com/dealroom-images-development/12/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA0LzE4LzgwYjk1YzY4OGQ4NTA3NGJjZDVkMmFhMTFkY2FkOWZk.png"
-      },
-      "income_streams": [
-        {
-          "id": 3,
-          "name": "subscription"
-        }
-      ],
-      "industries": [
-        {
-          "id": 1258,
-          "name": "travel"
-        },
-        {
-          "id": 100147,
-          "name": "enterprise software"
-        }
-      ],
-      "name": "Flyr",
-      "tagline": "If your plans change, your flight or hotel reservations should change with it",
-      "total_jobs_available": 0
-    },
+    
     {
       "uuid": "3843147b-42cf-45ae-9f68-7e451702d140",
       "images": {
@@ -543,7 +496,8 @@
       "industries": [
         {
           "id": 100111,
-          "name": "transportation"
+          "name": "Reddit",
+          "logo": "./assets/Reddit.svg"
         },
         {
           "id": 100147,
@@ -554,33 +508,7 @@
       "tagline": "Applied Intuition builds advanced simulation software for autonomous vehicles",
       "total_jobs_available": 19
     },
-    {
-      "uuid": "d8c8f7c8-f931-42a0-acaf-b930b565f2c9",
-      "images": {
-        "32x32": "https://storage.googleapis.com/dealroom-images-development/88/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8yNS82NWI2OTViOTUyYWJjNzg0MDRkYmU2YTNlNDE1OTZjOA==.png",
-        "74x74": "https://storage.googleapis.com/dealroom-images-development/bf/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8yNS82NWI2OTViOTUyYWJjNzg0MDRkYmU2YTNlNDE1OTZjOA==.png",
-        "100x100": "https://storage.googleapis.com/dealroom-images-development/d8/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA0LzI1LzY1YjY5NWI5NTJhYmM3ODQwNGRiZTZhM2U0MTU5NmM4.png"
-      },
-      "income_streams": [
-        {
-          "id": 3,
-          "name": "subscription"
-        }
-      ],
-      "industries": [
-        {
-          "id": 1264,
-          "name": "fintech"
-        },
-        {
-          "id": 100147,
-          "name": "enterprise software"
-        }
-      ],
-      "name": "AlphaSense",
-      "tagline": "Semantic financial search engine for investment professionals",
-      "total_jobs_available": 55
-    },
+    
     {
       "uuid": "ebd236f7-314d-4c64-aa1b-5ea59bdb9e0e",
       "images": {
@@ -727,33 +655,7 @@
       "tagline": "AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems",
       "total_jobs_available": 96
     },
-    {
-      "uuid": "c11cd48e-6d22-4150-8c05-4b394e66d42a",
-      "images": {
-        "32x32": "https://storage.googleapis.com/dealroom-images-development/34/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNS8xOS8xMTQ0M2U3ZWI3NTUwMTM5YmExYzlkZDQyYjVhNzRkMQ==.png",
-        "74x74": "https://storage.googleapis.com/dealroom-images-development/81/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNS8xOS8xMTQ0M2U3ZWI3NTUwMTM5YmExYzlkZDQyYjVhNzRkMQ==.png",
-        "100x100": "https://storage.googleapis.com/dealroom-images-development/f3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA1LzE5LzExNDQzZTdlYjc1NTAxMzliYTFjOWRkNDJiNWE3NGQx.png"
-      },
-      "income_streams": [
-        {
-          "id": 3,
-          "name": "subscription"
-        }
-      ],
-      "industries": [
-        {
-          "id": 100039,
-          "name": "hosting"
-        },
-        {
-          "id": 100147,
-          "name": "enterprise software"
-        }
-      ],
-      "name": "Lambda",
-      "tagline": "The AI Developer Cloud: Cloud GPUs available on-demand and through reservations for AI training and inference",
-      "total_jobs_available": 25
-    },
+  
     {
       "uuid": "50dfebf6-cdce-4a47-ae73-9c996fdc4f3b",
       "images": {
@@ -1016,33 +918,7 @@
       "tagline": "Building machines that understand the world and making them safely accessible to all",
       "total_jobs_available": 0
     },
-    {
-      "uuid": "52f99c8b-ba1f-4627-8630-ae1f027eca81",
-      "images": {
-        "32x32": "https://storage.googleapis.com/dealroom-images-development/a3/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8xOC84MGI5NWM2ODhkODUwNzRiY2Q1ZDJhYTExZGNhZDlmZA==.png",
-        "74x74": "https://storage.googleapis.com/dealroom-images-development/3a/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8xOC84MGI5NWM2ODhkODUwNzRiY2Q1ZDJhYTExZGNhZDlmZA==.png",
-        "100x100": "https://storage.googleapis.com/dealroom-images-development/12/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA0LzE4LzgwYjk1YzY4OGQ4NTA3NGJjZDVkMmFhMTFkY2FkOWZk.png"
-      },
-      "income_streams": [
-        {
-          "id": 3,
-          "name": "subscription"
-        }
-      ],
-      "industries": [
-        {
-          "id": 1258,
-          "name": "travel"
-        },
-        {
-          "id": 100147,
-          "name": "enterprise software"
-        }
-      ],
-      "name": "Flyr",
-      "tagline": "If your plans change, your flight or hotel reservations should change with it",
-      "total_jobs_available": 0
-    },
+    
     {
       "uuid": "3843147b-42cf-45ae-9f68-7e451702d140",
       "images": {
@@ -1162,33 +1038,7 @@
       "tagline": "Applied Intuition builds advanced simulation software for autonomous vehicles",
       "total_jobs_available": 19
     },
-    {
-      "uuid": "d8c8f7c8-f931-42a0-acaf-b930b565f2c9",
-      "images": {
-        "32x32": "https://storage.googleapis.com/dealroom-images-development/88/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8yNS82NWI2OTViOTUyYWJjNzg0MDRkYmU2YTNlNDE1OTZjOA==.png",
-        "74x74": "https://storage.googleapis.com/dealroom-images-development/bf/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNC8yNS82NWI2OTViOTUyYWJjNzg0MDRkYmU2YTNlNDE1OTZjOA==.png",
-        "100x100": "https://storage.googleapis.com/dealroom-images-development/d8/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA0LzI1LzY1YjY5NWI5NTJhYmM3ODQwNGRiZTZhM2U0MTU5NmM4.png"
-      },
-      "income_streams": [
-        {
-          "id": 3,
-          "name": "subscription"
-        }
-      ],
-      "industries": [
-        {
-          "id": 1264,
-          "name": "fintech"
-        },
-        {
-          "id": 100147,
-          "name": "enterprise software"
-        }
-      ],
-      "name": "AlphaSense",
-      "tagline": "Semantic financial search engine for investment professionals",
-      "total_jobs_available": 55
-    },
+    
     {
       "uuid": "ebd236f7-314d-4c64-aa1b-5ea59bdb9e0e",
       "images": {
