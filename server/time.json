@@ -1,0 +1,35 @@
+{
+    "companies": [
+      {
+        "name": "Layers.io",
+        "jobs": 12,
+        "logo": "/assets/Layers.svg"
+      },
+      {
+        "name": "Hourglass.app",
+        "jobs": 16,
+        "logo": "/assets/Hourglass.svg"
+      },
+      {
+        "name": "Command+R",
+        "jobs": 2,
+        "logo": "/assets/Command.svg"
+      },
+      {
+        "name": "Quotient",
+        "jobs": 8,
+        "logo": "/assets/Quotient.svg"
+      },
+      {
+        "name": "Reddit",
+        "jobs": 14,
+        "logo": "/assets/Reddit.svg"
+      },
+      {
+        "name": "Muzli",
+        "jobs": 18,
+        "logo": "/assets/Muzli.svg"
+      }
+    ]
+  }
+  
